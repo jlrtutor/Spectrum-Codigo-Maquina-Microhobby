@@ -1,6 +1,6 @@
 # Curso de Código Máquina para ZX-Spectrum
 
-El presente proyecto consiste en **rehacer** de nuevo todo el Curso existente de Código Máquina a formato digital, con idea de que sea perfectamente legible en formato digital (por ejemplo, PDF), e imprimible con la máxima calidad posible.
+El presente proyecto consiste en **rehacer** de nuevo todo el Curso existente de Código Máquina (en PDF escaneado) a formato digital, con idea de que sea perfectamente legible, pudiendo hacer zoom sin pérdida de calidad, e imprimible con la máxima definición posible.
 
 ## Revisión
 
