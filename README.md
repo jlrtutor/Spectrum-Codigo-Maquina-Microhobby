@@ -19,10 +19,9 @@ Queda prohibida la publicación, difusión o venta del documento resultante de e
 
 ##
 
-> Curso Código Máquina del ZX-Spectrum
-> Autor: Jesús Alonso Rodríguez
-> Publicación: Microhobby (HobbyPress)
->
-> Formato digital: Juan Luis Ramírez Tutor
-> *@SpeedRT*
-> v0.25 - noviembre 2022 *(página 77)*
+- Curso Código Máquina del ZX-Spectrum
+- Autor: Jesús Alonso Rodríguez
+- Publicación: Microhobby (HobbyPress)
+- Formato digital: Juan Luis Ramírez Tutor
+- Twitter: *@SpeedRT*
+- *v0.21.88* - noviembre 2022 (página 90/425)
