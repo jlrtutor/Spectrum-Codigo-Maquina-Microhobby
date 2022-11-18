@@ -24,4 +24,5 @@ Queda prohibida la publicación, difusión o venta del documento resultante de e
 - Publicación: Microhobby (HobbyPress)
 - Formato digital: Juan Luis Ramírez Tutor
 - Twitter: *@SpeedRT*
+- Mastodon: [https://tkz.one/@SpeedXP](https://tkz.one/@SpeedXP)
 - *v0.21.88* - noviembre 2022 (página 90/425)
