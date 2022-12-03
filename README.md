@@ -25,4 +25,4 @@ Queda prohibida la publicación, difusión o venta del documento resultante de e
 - Formato digital: Juan Luis Ramírez Tutor
 - Twitter: *@SpeedRT*
 - Mastodon: [https://tkz.one/@SpeedXP](https://tkz.one/@SpeedXP)
-- *v0.24.18* - noviembre 2022 (página 103/425)
+- *v0.25.88* - diciembre 2022 (página 110/425)
